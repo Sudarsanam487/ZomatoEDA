@@ -1,2 +1,3 @@
 # ZomatoEDA
-Exploratory Data Analysis on Zomato Restaurants Data This Project is about the Exploratory Data Analysis done on Zomato Restaurants data. The observations found from the analysis is also added in the code itself.
+Conducted thorough EDA on Zomato dataset using Python (Pandas, Matplotlib, Seaborn) to unveil trends in restaurant ratings, pricing, and cuisine preferences. 
+Cleaned and processed data, creating insightful visualizations and observations that revealed correlations between features. 
